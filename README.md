@@ -1,6 +1,6 @@
 ![MasterHead](https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53.gif)
 <h1 align="center">Hi 👋, I'm Shruti Naik</h1>
-<h3 align="center">A Diligent and Enthusiastic Introvert</h3>
+<h3 align="center">A Diligent and Enthusiastic Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutiiiiin&label=Profile%20views&color=0e75b6&style=flat" alt="shrutiiiiin" /> </p>
