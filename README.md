@@ -1,21 +1,11 @@
 ![MasterHead](https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53.gif)
-<h1 align="center">Hi 👋, I'm Shruti Naik</h1>
-<h3 align="center">A Diligent and Enthusiastic Developer</h3>
+<h1 align="center">Hi 👋</h1>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutiiiiin&label=Profile%20views&color=0e75b6&style=flat" alt="shrutiiiiin" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java script**
-
-- 👯 I’m looking to collaborate on **Frontend projects**
-
-- 📫 You can reach me through my email **shrutinaik2317@gmail.com**
-
-- ⚡ Fun fact **I love cats.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
